@@ -11,7 +11,7 @@
 
 ---
 
-| File | Link                              |
+| Project | Demo Program                              |
 | --------   | --------------------------------------------------- |
 | k-means  | [Link](https://github.com/GilarSumilar/Pengolahan-Citra-Digital/blob/main/k-means/RILL%20UAS.ipynb) |
-| YOUTUBE  | [Link]() |
+| streamlit  | [Link](https://github.com/GilarSumilar/Pengolahan-Citra-Digital/tree/main/streamlit%20OpenCV) |
